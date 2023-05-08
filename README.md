@@ -9,3 +9,10 @@ Even with our small team, we try our best to add games every day! We are always 
 Like the website?
 
 Consider sharing it! bit.ly/gxmes44
+
+   ___   ___ 
+  /   | /   |
+ / /| |/ /| |
+/ /_| / /_| |
+\___  \___  |
+    |_/   |_/
