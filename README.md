@@ -1,8 +1,3 @@
-[![Contributors][contributors-shield]][https://github.com/Unblocked-Games-44/UnblockedGames44/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/Unblocked-Games-44/UnblockedGames44/forks]
-[![Issues][issues-shield]][https://github.com/Unblocked-Games-44/UnblockedGames44/issues]
-
-
 # UnblockedGames44
 At Unblocked Games 44, we provide a large selection of games and is properly maintained. All of our games work, if it doesn't work for you, please use the suggestion form in our homepage.
 
