@@ -1,7 +1,3 @@
-# NOTICE AS OF MAY 16TH
-The UnblockedGames44 Site is officially down, we plan to reconstruct it on a different account. we decided that we wanted to move the site from a managed sites account to an actually free account. We'll update you on our progress from time-to-time. We hope you had fun with what we have made. SEE YOU WHEN THE SITE IS UP!!!
-
-
 # UnblockedGames44
 At Unblocked Games 44, we provide a large selection of games and is properly maintained. All of our games work, if it doesn't work for you, please use the suggestion form in our homepage.
 
@@ -12,4 +8,4 @@ Even with our small team, we try our best to add games every day! We are always 
 
 # Like the website?
 
-Consider sharing it! `bit.ly/gxmes44`
+Consider sharing it! `bit.ly/ubg44`
