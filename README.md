@@ -9,3 +9,5 @@ Even with our small team, we try our best to add games every day! We are always 
 # Like the website?
 
 Consider sharing it! `bit.ly/ubg44`
+
+**ANY LEGAL ISSUES MUST BE SUBMITTED VIA THE LEGAL PAGE**
